@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/HiromasaKosegawa53/a_book_of_life-master-edit) 
+
 ## 最適な読書体験をしたい
 　アマゾンなどでレコメンドされる本を上から見ていても読書体験がそんなに良くありません。  
 　本の売り上げランキングなどは、大衆に受ける本がほとんどであり、少々独特なセンスを持つ人たちにはそんなに受けが良くないです。  
